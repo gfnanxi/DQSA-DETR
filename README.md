@@ -1,6 +1,7 @@
 # Density-Guided adaptive transformer framework for tiny object detection in remote sensing images
 
-The key code is not included at present and will be added in the future.
+![Method](./config/overview.png)
+This repository is an official implementation of the paper DQ-DETR: DETR with Dynamic Query for Tiny Object Detection.
 
 ## Installation -- Compiling CUDA operators
 
