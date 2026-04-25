@@ -1,4 +1,4 @@
-# DQSA-DETR
+# Density-Guided adaptive transformer framework for tiny object detection in remote sensing images
 
 The key code is not included at present and will be added in the future.
 
