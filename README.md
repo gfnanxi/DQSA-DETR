@@ -1,4 +1,4 @@
-# Density-Guided adaptive transformer framework for tiny object detection in remote sensing images
+# DQSA-DETR: A Density-Guided Adaptive DETR Framework for Tiny Object Detection in Remote Sensing Image
 
 ![Method](./config/overview.png)
 This repository is an official implementation of the paper DQ-DETR: DETR with Dynamic Query for Tiny Object Detection.
